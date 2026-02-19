@@ -1,7 +1,20 @@
 {
-  "note": "✨ RUNVOICE NEON 2026\n📢 Đã nâng cấp Micro Limit\n🎧 Hỗ trợ sách nói hàng triệu ký tự",
-  "images": [
-    "https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-1.png",
-    "https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-1.png"
+  "slides": [
+    {
+      "url": "https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-1.png",
+      "note": "🌸 Đảo Đào Hoa - Hoàng Dược Sư"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-3.png",
+      "note": "⚔️ Quách Tĩnh luyện Hàng Long Thập Bát Chưởng"
+    },
+    {
+      "url": "https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%281%29.jpg",
+      "note": "🐍 Tây Độc đấu chưởng Hồng Thất Công"
+    },
+    {
+      "url": "https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2822%29.jpg",
+      "note": "📿 Châu Bá Thông luyện Không Minh Quyền"
+    }
   ]
 }
