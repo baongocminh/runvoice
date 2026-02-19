@@ -1,20 +1,29 @@
 {
-  "slides": [
-    {
-      "url": "https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-1.png",
-      "note": "🌸 Đảo Đào Hoa - Hoàng Dược Sư"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-3.png",
-      "note": "⚔️ Quách Tĩnh luyện Hàng Long Thập Bát Chưởng"
-    },
-    {
-      "url": "https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%281%29.jpg",
-      "note": "🐍 Tây Độc đấu chưởng Hồng Thất Công"
-    },
-    {
-      "url": "https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2822%29.jpg",
-      "note": "📿 Châu Bá Thông luyện Không Minh Quyền"
-    }
+  "images": [
+"https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-1.png|Đảo Đào Hoa sssssnjhg",
+"https://raw.githubusercontent.com/baongocminh/baongoc/main/BCH-3.png|Đảo Đào Hoa",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%281%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%282%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%283%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%284%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%285%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%286%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%287%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%288%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%289%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2810%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2811%29.JPG",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2812%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2813%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2814%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2815%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2816%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2817%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2818%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2819%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2820%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2821%29.jpg",
+"https://archive.org/download/gia1-2026/GIA.zip/GIA%2FGIA%20%2822%29.jpg"
+
   ]
 }
